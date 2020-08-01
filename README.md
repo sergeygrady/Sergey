@@ -1,1 +1,1 @@
-Examples of emails
+Examples of emails for htmlacademy
