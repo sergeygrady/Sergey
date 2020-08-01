@@ -1,1 +1,1 @@
-Sergey
+Examples of emails
